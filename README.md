@@ -36,3 +36,5 @@ wife 👰
   <img height="32" src="https://unpkg.com/simple-icons@latest/icons/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
+
+🔗 https://techeverri.dev
