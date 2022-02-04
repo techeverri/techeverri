@@ -9,31 +9,31 @@ open-source software projects when I'm not watching 📺 films or TV shows with 
 wife 👰
 
 <a title="Twitter" href="https://twitter.com/TomasEcheverri">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/twitter.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="GitHub" href="https://github.com/techeverri">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/github.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="AngelList" href="https://angel.co/techeverri">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/angellist.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/angellist.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="npm" href="https://www.npmjs.com/~techeverri">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/npm.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="Stack Overflow" href="https://stackoverflow.com/users/story/1416747">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/stackoverflow.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="Mastodon" href="https://mastodon.social/web/@techeverri">
-  <img height="32" src="https://unpkg.com/simple-icons@latest/icons/mastodon.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
 
