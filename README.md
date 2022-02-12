@@ -37,4 +37,4 @@ wife 👰
 </a>
 &nbsp;&nbsp;
 
-🔗 https://techeverri.dev
+🔗 https://techeverri.dev → `Response { "status": 508, "statusText": "Loop Detected" }`
