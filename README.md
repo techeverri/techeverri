@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Tomas. I’m a Software Engineer from 🇨🇴 Colombia living in 🇸🇪
+My name is Tomas. I’m a Software Developer from 🇨🇴 Colombia living in 🇸🇪
 Stockholm, Sweden. I like 🌶 spicy food, 🚲 cycling and 🧺 picnics. In my free
 time, I mostly play 🏸 badminton (singles and doubles), 🏐 volleyball (indoor,
 beach, and grass), and very seldom I play ⚽️ football. I am an enthusiast of
