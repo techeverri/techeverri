@@ -20,6 +20,10 @@ wife 👰
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg" />
 </a>
 &nbsp;&nbsp;
+<a title="CodePen" href="https://codepen.io/techeverri">
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg" />
+</a>
+&nbsp;&nbsp;
 <a title="AngelList" href="https://angel.co/techeverri">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/angellist.svg" />
 </a>
