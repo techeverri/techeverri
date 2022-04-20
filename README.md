@@ -8,35 +8,35 @@ technology and programming, specially web development. I try to contribute to
 open-source software projects when I'm not watching 📺 films or TV shows with my
 wife 👰
 
-<a title="Twitter" href="https://twitter.com/TomasEcheverri">
+<a title="Twitter" href="https://twitter.com/TomasEcheverri" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/twitter.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
+<a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="GitHub" href="https://github.com/techeverri">
+<a title="GitHub" href="https://github.com/techeverri" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="CodePen" href="https://codepen.io/techeverri">
+<a title="CodePen" href="https://codepen.io/techeverri" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="AngelList" href="https://angel.co/techeverri">
+<a title="AngelList" href="https://angel.co/techeverri" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/angellist.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="npm" href="https://www.npmjs.com/~techeverri">
+<a title="npm" href="https://www.npmjs.com/~techeverri" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="Stack Overflow" href="https://stackoverflow.com/users/story/1416747">
+<a title="Stack Overflow" href="https://stackoverflow.com/users/story/1416747" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="Mastodon" href="https://mastodon.social/web/@techeverri">
+<a title="Mastodon" href="https://mastodon.social/web/@techeverri" target="_blank">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
