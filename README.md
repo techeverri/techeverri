@@ -12,6 +12,10 @@ wife 👰
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/twitter.svg" />
 </a>
 &nbsp;&nbsp;
+<a rel="me" title="Mastodon" href="https://mastodon.social/web/@techeverri">
+  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
+</a>
+&nbsp;&nbsp;
 <a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
 </a>
@@ -34,10 +38,6 @@ wife 👰
 &nbsp;&nbsp;
 <a title="Stack Overflow" href="https://stackoverflow.com/users/story/1416747">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
-</a>
-&nbsp;&nbsp;
-<a title="Mastodon" href="https://mastodon.social/web/@techeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
 
