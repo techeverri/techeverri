@@ -43,9 +43,13 @@ TV shows with my wife 👰
 </a>
 &nbsp;&nbsp;
 
-🔗 <https://techeverri.dev> →
-`Response { "status": 508, "statusText": "Loop Detected" }`
+### Command-line interface (CLI) version
 
 ```sh
 ❯ npx techeverri
 ```
+
+### Root (apex domain)
+
+🔗 <https://techeverri.dev> →
+`Response { "status": 508, "statusText": "Loop Detected" }`
