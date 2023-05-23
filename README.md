@@ -30,10 +30,6 @@ TV shows with my wife 👰
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="AngelList" href="https://angel.co/techeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/angellist.svg" />
-</a>
-&nbsp;&nbsp;
 <a title="npm" href="https://www.npmjs.com/~techeverri">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
 </a>
