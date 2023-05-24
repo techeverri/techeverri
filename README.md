@@ -34,7 +34,7 @@ TV shows with my wife 👰
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
 </a>
 &nbsp;&nbsp;
-<a title="Stack Overflow" href="https://stackoverflow.com/users/story/1416747">
+<a title="Stack Overflow" href="https://stackoverflow.com/users/1416747/tomas-echeverri">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
 </a>
 &nbsp;&nbsp;
