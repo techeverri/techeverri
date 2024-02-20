@@ -12,7 +12,7 @@ software projects from time to time otherwise you'll find me watching 📺 films
 or TV shows with my wife 👰
 
 <a title="Twitter" href="https://twitter.com/TomasEcheverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/twitter.svg" />
+  <img height="32" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
 </a>
 &nbsp;&nbsp;
 <a rel="me" title="Mastodon" href="https://mastodon.social/web/@techeverri">
