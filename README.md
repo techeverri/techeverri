@@ -11,6 +11,8 @@ programming, specially web development. I also contribute to open-source
 software projects from time to time otherwise you'll find me watching 📺 films
 or TV shows with my wife 👰
 
+🔗 <https://techeverri.dev>
+
 <a title="Twitter" href="https://twitter.com/TomasEcheverri">
   <img height="32" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
 </a>
@@ -45,8 +47,3 @@ or TV shows with my wife 👰
 ```sh
 ❯ npx techeverri
 ```
-
-### Root (apex domain)
-
-🔗 <https://techeverri.dev> →
-`Response { "status": 508, "statusText": "Loop Detected" }`
