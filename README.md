@@ -5,8 +5,8 @@ Stockholm, Sweden. I like 🌶 spicy food, 🛶 kayaking, 🚲 cycling and 🧺 
 In my free time, I mostly play 🏸
 [badminton](https://badmintonsweden.tournamentsoftware.com/player-profile/c51332aa-ffdc-47aa-9d28-281ed4108d03)
 (singles, doubles, and mixed doubles), 🏐
-[volleyball](https://kthvolleyball.com/) (indoor, ~~beach~~, and grass), and
-very seldom I play ⚽️ football. I am an enthusiast of technology and
+[volleyball](https://kthvolleyball.com/) (indoor, ~~beach, and grass~~), ~~and
+very seldom I play ⚽️ football~~ (lol, my knees hurt now). I am an enthusiast of technology and
 programming, specially web development. I also contribute to open-source
 software projects from time to time otherwise you'll find me watching 📺 films
 or TV shows with my wife 👰
