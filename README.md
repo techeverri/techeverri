@@ -21,7 +21,7 @@ energized.
   <img height="32" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
 </a>
 &nbsp;&nbsp;
-<a rel="me" title="Mastodon" href="https://mastodon.social/web/@techeverri">
+<a rel="me" title="Mastodon" href="https://mastodon.social/@techeverri">
   <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
