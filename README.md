@@ -17,7 +17,7 @@ energized.
 
 🔗 <https://techeverri.dev>
 
-<a title="Twitter" href="https://twitter.com/TomasEcheverri">
+<a title="Twitter" href="https://x.com/TomasEcheverri">
   <img height="32" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
 </a>
 &nbsp;&nbsp;
