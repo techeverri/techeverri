@@ -2,19 +2,18 @@
 
 Hi, I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪
 Stockholm, Sweden. I’m passionate about technology, especially web development,
-and I contribute to open-source projects when I can.
-
-In my free time, I enjoy playing sports and being outdoors. I play 🏸
+and I contribute to open-source projects when I can. In my free time, I enjoy
+playing 🏸
 [badminton](https://badmintonsweden.tournamentsoftware.com/player-profile/c51332aa-ffdc-47aa-9d28-281ed4108d03)
 (singles, doubles, and mixed doubles). I used to play 🏐
 [volleyball](https://kthvolleyball.com/) (mainly indoor) and ⚽️ football, but
-I’ve slowed down because of knee issues 😅.
+I’ve slowed down due to knee issues 😅.
 
-I also enjoy 🚲 cycling, 🛶 kayaking, and having 🧺 picnics. When I’m relaxing,
-I like to watch 📺 films and TV shows with my wife 👰.
-
-I’m always looking for things that keep me creative and energized, whether it’s
-coding, being outdoors, or spending time with loved ones.
+When I’m not playing sports, I love being outdoors with activities like 🚲
+cycling, 🛶 kayaking, and having 🧺 picnics. I also enjoy watching 📺 films and
+TV shows with my wife 👰. Whether I’m coding, exploring nature, or spending time
+with loved ones, I’m always looking for things that keep me creative and
+energized.
 
 🔗 <https://techeverri.dev>
 
