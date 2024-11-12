@@ -18,31 +18,31 @@ energized.
 🔗 <https://techeverri.dev>
 
 <a title="Twitter" href="https://x.com/TomasEcheverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
 </a>
 &nbsp;&nbsp;
 <a rel="me" title="Mastodon" href="https://mastodon.social/@techeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="GitHub" href="https://github.com/techeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="CodePen" href="https://codepen.io/techeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="npm" href="https://www.npmjs.com/~techeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
 </a>
 &nbsp;&nbsp;
 <a title="Stack Overflow" href="https://stackoverflow.com/users/1416747/tomas-echeverri">
-  <img height="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
+  <img height="32" width="auto" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
 </a>
 &nbsp;&nbsp;
 
