@@ -1,4 +1,4 @@
-# Hey there 👋
+Hey there 👋
 
 Hi, I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪
 Stockholm, Sweden. I’m passionate about technology, especially web development,
