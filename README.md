@@ -17,32 +17,70 @@ energized.
 
 🔗 <https://techeverri.dev>
 
-<a title="X" alt="" href="https://x.com/TomasEcheverri">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
+<a title="X" href="https://x.com/TomasEcheverri">
+  <img
+    height="32"
+    width="32"
+    alt="X"
+    src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg"
+  />
 </a>
 &nbsp;&nbsp;
-<a rel="me" title="Mastodon" alt="Mastodon" href="https://mastodon.social/@techeverri">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
+<a rel="me" title="Mastodon" href="https://mastodon.social/@techeverri">
+  <img
+    height="32"
+    width="32"
+    alt="Mastodon"
+    src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg"
+  />
 </a>
 &nbsp;&nbsp;
-<a title="LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
+<a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
+  <img
+    height="32"
+    width="32"
+    alt="LinkedIn"
+    src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg"
+  />
 </a>
 &nbsp;&nbsp;
-<a title="GitHub" alt="GitHub" href="https://github.com/techeverri">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg" />
+<a title="GitHub" href="https://github.com/techeverri">
+  <img
+    height="32"
+    width="32"
+    alt="GitHub"
+    src="https://unpkg.com/super-tiny-icons@latest/images/svg/github.svg"
+  />
 </a>
 &nbsp;&nbsp;
-<a title="CodePen" alt="CodePen" href="https://codepen.io/techeverri">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg" />
+<a title="CodePen" href="https://codepen.io/techeverri">
+  <img
+    height="32"
+    width="32"
+    alt="CodePen"
+    src="https://unpkg.com/super-tiny-icons@latest/images/svg/codepen.svg"
+  />
 </a>
 &nbsp;&nbsp;
-<a title="npm" alt="npm" href="https://www.npmjs.com/~techeverri">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg" />
+<a title="npm" href="https://www.npmjs.com/~techeverri">
+  <img
+    height="32"
+    width="32"
+    alt="npm"
+    src="https://unpkg.com/super-tiny-icons@latest/images/svg/npm.svg"
+  />
 </a>
 &nbsp;&nbsp;
-<a title="Stack Overflow" alt="Stack Overflow" href="https://stackoverflow.com/users/1416747/tomas-echeverri">
-  <img height="32" width="32" src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg" />
+<a
+  title="Stack Overflow"
+  href="https://stackoverflow.com/users/1416747/tomas-echeverri"
+>
+  <img
+    height="32"
+    width="32"
+    alt="Stack Overflow"
+    src="https://unpkg.com/super-tiny-icons@latest/images/svg/stackoverflow.svg"
+  />
 </a>
 &nbsp;&nbsp;
 
