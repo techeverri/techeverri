@@ -1,9 +1,9 @@
 Hey there 👋
 
-Hi, I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪
-Stockholm, Sweden. I’m passionate about technology, especially web development,
-and I contribute to open-source projects when I can. In my free time, I enjoy
-playing 🏸
+I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪 Stockholm,
+Sweden. I’m passionate about technology, especially web development, and I
+contribute to open-source projects when I can. In my free time, I enjoy playing
+🏸
 [badminton](https://badmintonsweden.tournamentsoftware.com/player-profile/c51332aa-ffdc-47aa-9d28-281ed4108d03)
 (singles, doubles, and mixed doubles). I used to play 🏐
 [volleyball](https://kthvolleyball.com/) (mainly indoor) and ⚽️ football, but
