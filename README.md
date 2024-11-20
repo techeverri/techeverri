@@ -1,7 +1,3 @@
----
-layout: default
----
-
 Hey there 👋
 
 I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪 Stockholm,
