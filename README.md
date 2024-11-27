@@ -25,6 +25,11 @@ energized.
   <img height="32" width="32" alt="Mastodon" src="https://unpkg.com/super-tiny-icons@latest/images/svg/mastodon.svg" />
 </a>
 &nbsp;&nbsp;
+<a title="Bluesky" href="https://bsky.app/profile/techeverri.bsky.social">
+  <!-- <img height="32" width="32" alt="Bluesky" src="https://unpkg.com/super-tiny-icons@latest/images/svg/bluesky.svg" /> -->
+  <img height="32" width="32" alt="Bluesky" src="https://bsky.app/static/apple-touch-icon.png" />
+</a>
+&nbsp;&nbsp;
 <a title="LinkedIn" href="https://www.linkedin.com/in/tomechval/">
   <img height="32" width="32" alt="LinkedIn" src="https://unpkg.com/super-tiny-icons@latest/images/svg/linkedin.svg" />
 </a>
