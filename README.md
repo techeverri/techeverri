@@ -57,6 +57,8 @@ energized.
 ❯ npx techeverri
 ```
 
+### GitHub contributions
+
 <div align="center">
   <a href="https://commit-history.com/techeverri">
     <picture>
