@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://commit-history.com/techeverri">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/techeverri?theme=dark" />
+      <img alt="techeverri's commit history" src="https://commit-history.com/embed/techeverri" />
+    </picture>
+  </a>
+</div>
+
 Hey there 👋
 
 I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪 Stockholm,
