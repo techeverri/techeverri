@@ -6,8 +6,8 @@ contribute to open-source projects when I can. In my free time, I enjoy playing
 🏸
 [badminton](https://badmintonsweden.tournamentsoftware.com/player-profile/c51332aa-ffdc-47aa-9d28-281ed4108d03)
 (singles, doubles, and mixed doubles). I used to play 🏐
-[volleyball](https://www.profixio.com/app/leagueid15245/teams/1118966?tab=players) (mainly indoor) and ⚽️ football, but
-I’ve slowed down due to knee issues 😅.
+[volleyball](https://www.profixio.com/app/leagueid15245/teams/1118966?tab=players)
+(mainly indoor) and ⚽️ football, but I’ve slowed down due to knee issues 😅.
 
 When I’m not playing sports, I love being outdoors with activities like 🚲
 cycling, 🛶 kayaking, and having 🧺 picnics. I also enjoy watching 📺 films and
