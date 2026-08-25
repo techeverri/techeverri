@@ -1,7 +1,17 @@
 ---
-layout: default
+layout: compress
 ---
 
-<article class="px-1">
-  <div class="content">{{ content }}</div>
-</article>
+<!doctype html>
+
+{% include origin-type.html %} {% include lang.html %}
+
+<html lang="{{ page.lang | default: site.alt_lang | default: site.lang }}">
+  {% include head.html lang=lang %}
+
+  <body>
+    <main class="container col-xl-8 px-4 py-5">
+      <article class="content">{{ content }}</article>
+    </main>
+  </body>
+</html>

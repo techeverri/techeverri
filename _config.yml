@@ -11,23 +11,6 @@ description: >-
 url: "https://techeverri.dev"
 baseurl: ""
 
-github:
-  username: techeverri
-
-twitter:
-  username: TomasEcheverri
-
-social:
-  name: Tomas Echeverri
-  email:
-  fediverse_handle: "@techeverri@mastodon.social"
-  links:
-    - https://github.com/techeverri
-    - https://www.linkedin.com/in/tomechval/
-    - https://x.com/TomasEcheverri
-    - https://mastodon.social/@techeverri
-    - https://bsky.app/profile/techeverri.bsky.social
-
 webmaster_verifications:
   google:
   bing:
@@ -59,8 +42,8 @@ pageviews:
 theme_mode:
 
 cdn:
-avatar: https://github.com/techeverri.png
-social_preview_image: https://github.com/techeverri.png
+avatar:
+social_preview_image:
 
 toc: false
 
@@ -107,7 +90,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: true
+      line_numbers: false
       start_line: 1
 
 collections:
