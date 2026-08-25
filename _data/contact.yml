@@ -1,0 +1,30 @@
+# Contact links shown at the bottom of the sidebar.
+- type: github
+  icon: "fab fa-github"
+
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+- type: mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@techeverri"
+
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/techeverri.bsky.social"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tomechval/"
+
+- type: codepen
+  icon: "fab fa-codepen"
+  url: "https://codepen.io/techeverri"
+
+- type: npm
+  icon: "fab fa-npm"
+  url: "https://www.npmjs.com/~techeverri"
+
+- type: stack-overflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/1416747/tomas-echeverri"

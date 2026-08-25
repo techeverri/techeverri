@@ -1,0 +1,168 @@
+# Site configuration
+theme: jekyll-theme-chirpy
+
+lang: en
+timezone: Europe/Stockholm
+
+title: Tomas Echeverri
+tagline: Software Developer
+description: >-
+  Personal website of Tomas Echeverri, a software developer based in Stockholm.
+url: "https://techeverri.dev"
+baseurl: ""
+
+github:
+  username: techeverri
+
+twitter:
+  username: TomasEcheverri
+
+social:
+  name: Tomas Echeverri
+  email:
+  fediverse_handle: "@techeverri@mastodon.social"
+  links:
+    - https://github.com/techeverri
+    - https://www.linkedin.com/in/tomechval/
+    - https://x.com/TomasEcheverri
+    - https://mastodon.social/@techeverri
+    - https://bsky.app/profile/techeverri.bsky.social
+
+webmaster_verifications:
+  google:
+  bing:
+  alexa:
+  yandex:
+  baidu:
+  facebook:
+
+analytics:
+  google:
+    id:
+  goatcounter:
+    id:
+  umami:
+    id:
+    domain:
+  matomo:
+    id:
+    domain:
+  cloudflare:
+    id:
+  fathom:
+    id:
+
+pageviews:
+  provider:
+
+# Empty means follow the visitor's system preference while retaining the toggle.
+theme_mode:
+
+cdn:
+avatar: https://github.com/techeverri.png
+social_preview_image: https://github.com/techeverri.png
+
+toc: false
+
+actions:
+  edit_post:
+    enabled: false
+    url: ""
+    static_url: false
+
+comments:
+  provider:
+  disqus:
+    shortname:
+  utterances:
+    repo:
+    issue_term:
+  giscus:
+    repo:
+    repo_id:
+    category:
+    category_id:
+    mapping:
+    strict:
+    input_position:
+    lang:
+    reactions_enabled:
+
+assets:
+  self_host:
+    enabled:
+    env:
+
+pwa:
+  enabled: false
+  cache:
+    enabled: false
+    deny_paths:
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
+  - purgecss.js
+  - "*.config.js"
+  - "package*.json"
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/

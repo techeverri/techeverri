@@ -41,6 +41,23 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Bundler cache
+.bundle/
+vendor/
+Gemfile.lock
+
+# Jekyll output and cache
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# RubyGems
+*.gem
+
+# Chirpy generated assets
+_sass/vendors/
+assets/js/dist/
+
 # TypeScript v1 declaration files
 typings/
 
