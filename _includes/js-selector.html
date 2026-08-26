@@ -1,2 +1,23 @@
-{% comment %} The README-only site does not use Chirpy's optional blog or search
-scripts. {% endcomment %}
+{% comment %} Keep Chirpy's optional blog and search scripts out of the
+README-only page. The small handler below preserves the theme's code-copy
+control. {% endcomment %}
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll(".code-header > button").forEach((button) => {
+      button.addEventListener("click", async () => {
+        const block = button.parentElement.nextElementSibling;
+        const code =
+          block.querySelector(".rouge-code") ?? block.querySelector("code");
+
+        await navigator.clipboard.writeText(code.textContent);
+        const icon = button.querySelector("i");
+        icon.className = "fas fa-check";
+
+        window.setTimeout(() => {
+          icon.className = "far fa-clipboard";
+        }, 2000);
+      });
+    });
+  });
+</script>

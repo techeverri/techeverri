@@ -10,8 +10,10 @@ layout: compress
   {% include head.html lang=lang %}
 
   <body>
-    <main class="container col-xl-8 px-4 py-5">
-      <article class="content">{{ content }}</article>
+    <main class="container col-xl-8 px-4 pb-4 mb-4">
+      <article class="content">
+        {% include refactor-readme.liquid content=content %}
+      </article>
     </main>
   </body>
 </html>

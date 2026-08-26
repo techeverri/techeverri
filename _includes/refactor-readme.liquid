@@ -1,0 +1,44 @@
+{% assign readme_content = include.content %}
+
+{% comment %}
+  Chirpy's compressed layout needs the highlighted-code wrapper normalized before
+  the theme's terminal header can be added. Keep this focused on code so README
+  images and links retain their GitHub-profile markup.
+{% endcomment %}
+
+{% if readme_content contains '<pre class="highlight">' %}
+  {% assign readme_content = readme_content
+    | replace: '<div class="highlight"><pre class="highlight"><code', '<div class="highlight"><code'
+    | replace: '</code></pre></div>', '</code></div>'
+  %}
+{% endif %}
+
+{% if readme_content contains '<div class="highlight"><code>' %}
+  {% assign code_snippets = readme_content | split: '<div class="highlight"><code>' %}
+  {% assign refactored_content = '' %}
+
+  {% for snippet in code_snippets %}
+    {% if forloop.last %}
+      {% assign refactored_content = refactored_content | append: snippet %}
+    {% else %}
+      {% assign left = snippet | split: '><' | last %}
+      {% assign language = left | split: 'language-' | last | split: ' ' | first %}
+      {% capture label_text %}{% include language-alias.html language=language %}{% endcapture %}
+      {% capture label %}
+        <span data-label-text="{{ label_text | strip }}"><i class="fas fa-code fa-fw small"></i></span>
+      {% endcapture %}
+
+      {% assign refactored_content = refactored_content
+        | append: snippet
+        | append: '<div class="code-header">'
+        | append: label
+        | append: '<button type="button" aria-label="Copy code"><i class="far fa-clipboard"></i></button></div>'
+        | append: '<div class="highlight"><code>'
+      %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign readme_content = refactored_content %}
+{% endif %}
+
+{{ readme_content }}
