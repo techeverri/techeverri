@@ -54,7 +54,7 @@ energized.
 ### Command-line interface (CLI) version
 
 ```shell
-❯ npx techeverri
+npx techeverri
 ```
 
 ### GitHub contributions
