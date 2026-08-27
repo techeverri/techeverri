@@ -1,21 +1,20 @@
 Hey there 👋
 
-I’m Tomas, a Software Developer from 🇨🇴 Colombia, now living in 🇸🇪 Stockholm,
-Sweden. I’m passionate about technology, especially web development, and I
-contribute to open-source projects when I can. In my free time, I enjoy playing
-🏸
+I’m Tomas, a software developer from 🇨🇴 Colombia, now based in 🇸🇪 Stockholm,
+Sweden. I specialize in web development and enjoy contributing to open-source
+projects.
+
+Away from the keyboard, you’ll often find me on a 🏸
 [badminton](https://badmintonsweden.tournamentsoftware.com/player-profile/c51332aa-ffdc-47aa-9d28-281ed4108d03)
-(singles, doubles, and mixed doubles). I used to play 🏐
+court, playing singles, doubles, or mixed doubles. I also enjoy cycling,
+kayaking, and picnics. I used to play 🏐
 [volleyball](https://www.profixio.com/app/leagueid15245/teams/1118966?tab=players)
-(mainly indoor) and ⚽️ football, but I’ve slowed down due to knee issues 😅.
+and ⚽️ football too, but knee issues have made me slow down 😅.
 
-When I’m not playing sports, I love being outdoors with activities like 🚲
-cycling, 🛶 kayaking, and having 🧺 picnics. I also enjoy watching 📺 films and
-TV shows with my wife 👰. Whether I’m coding, exploring nature, or spending time
-with loved ones, I’m always looking for things that keep me creative and
-energized.
+I also enjoy films and TV shows with my wife, exploring nature, and anything
+that keeps me curious and creative.
 
-🔗 <https://techeverri.dev>
+🔗 [techeverri.dev](https://techeverri.dev)
 
 <a title="X" href="https://x.com/TomasEcheverri">
   <img height="32" width="32" alt="X" src="https://unpkg.com/super-tiny-icons@0.6.0/images/svg/x.svg" />
